@@ -1,6 +1,6 @@
 hola .v
 
-<<<<<<< HEAD
+HEAD
 que tal
 
 otra rama
@@ -9,4 +9,4 @@ rama 3
 rama4
 =======
 que tal
->>>>>>> 100644
+100644
